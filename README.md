@@ -13,4 +13,4 @@ If you want to try the experimental CapsLock/Launcher shortcuts, go to chrome://
 - Disabled + y/o = Home/End
 
 ## Known Issues
-Extension-based keyboard mapping does not work on the chrome://extensions/ page, in password fields, and in a few other system-level pages.
+Extension-based keyboard mapping does not work on the chrome://extensions/ page, in password fields, and in a few other system-level pages for security reasons. **Switch to the regular Dvorak keyboard when you are typing passwords or you will be using QWERTY.**
