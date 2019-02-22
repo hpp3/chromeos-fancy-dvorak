@@ -1,0 +1,22 @@
+{
+  "name": "FancyDvorak",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Custom Dvorak remapping that uses qwerty ctrl shortcuts, and capslock navigation.",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "FancyDvorak",
+      "type": "ime",
+      "id": "fancy_dvorak",
+      "description": "Custom Dvorak remapping that uses qwerty ctrl shortcuts, and capslock navigation.",
+      "language": "en-US",
+      "layouts": ["us"]
+    }
+  ]
+}
